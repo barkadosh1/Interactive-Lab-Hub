@@ -2,4 +2,4 @@
 
 Completed Labs for Bar Kadosh
 
-1. [Bar Kadosh's Lab 1](//github.com/johnqstudent/idd-fa18-lab1)
+1. [Bar Kadosh's Lab 1](https://github.com/barkadosh1/IDD-Fa19-Lab1)
