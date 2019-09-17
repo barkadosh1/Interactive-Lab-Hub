@@ -3,7 +3,7 @@
 Completed Pre-Labs for Bar Kadosh
 
 1. No Pre-Lab Submission Necessary
-2. [Bar Kadosh's Lab 2](https://github.com/barkadosh1/IDD-FA19-PreLab2)
+2. [Bar Kadosh's Pre-Lab 2](https://github.com/barkadosh1/IDD-FA19-PreLab2)
 
 Completed Labs for Bar Kadosh
 
