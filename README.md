@@ -10,5 +10,6 @@ Completed Labs for Bar Kadosh
 1. [Bar Kadosh's Lab 1](https://github.com/barkadosh1/IDD-Fa19-Lab1)
 2. [Bar Kadosh's Lab 2](https://github.com/barkadosh1/IDD-Fa19-Lab2)
 3. [Bar Kadosh's Lab 3 (Includes Pre-Lab 3)](https://github.com/barkadosh1/IDD-Fa19-Lab3)
+4. [Bar Kadosh's Lab 4](https://github.com/barkadosh1/IDD-Fa19-Lab4)
  
 
