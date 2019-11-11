@@ -17,6 +17,6 @@ Completed Labs for Bar Kadosh
 
 Final Project
 
-[Final Project](https://github.com/barkadosh1/Interactive-Lab-Hub)
+[Final Project](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/README.md)
  
 
