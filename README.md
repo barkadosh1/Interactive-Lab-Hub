@@ -17,6 +17,6 @@
 
 ### Final Project
 
-[Final Project](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/README.md)
+1. [Final Project](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/README.md)
  
 
