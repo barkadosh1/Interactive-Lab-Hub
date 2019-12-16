@@ -1,11 +1,11 @@
 # Interactive-Lab-Hub
 
-Completed Pre-Labs for Bar Kadosh
+### Completed Pre-Labs for Bar Kadosh
 
 1. No Pre-Lab Submission Necessary
 2. [Bar Kadosh's Pre-Lab 2](https://github.com/barkadosh1/IDD-FA19-PreLab2)
 
-Completed Labs for Bar Kadosh
+### Completed Labs for Bar Kadosh
 
 1. [Bar Kadosh's Lab 1](https://github.com/barkadosh1/IDD-Fa19-Lab1)
 2. [Bar Kadosh's Lab 2](https://github.com/barkadosh1/IDD-Fa19-Lab2)
@@ -15,7 +15,7 @@ Completed Labs for Bar Kadosh
 6. [Bar Kadosh's Lab 6](https://github.com/barkadosh1/IDD-Fa19-Lab6)
 7. [Bar Kadosh's Lab 7](https://github.com/barkadosh1/IDD-Fa19-Lab7)
 
-Final Project
+### Final Project
 
 [Final Project](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/README.md)
  
